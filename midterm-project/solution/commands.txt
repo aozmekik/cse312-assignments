@@ -1,0 +1,12 @@
+the commands that are developed and tested: (all)
+
+list
+mkdir
+rmdir
+write
+read
+del
+dumpe2fs
+ln
+lnsym
+fsck
